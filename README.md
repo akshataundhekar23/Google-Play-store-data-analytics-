@@ -20,30 +20,14 @@ This project is a comprehensive data analytics dashboard built using Python and 
 - **Streamlit** for dashboard
 - **Git** + **GitHub** for version control
 
-## 📂 Project Structure
-
-```bash
-├── data/                   # Raw and processed datasets
-├── dashboard_app.py        # Streamlit dashboard code
-├── notebooks/              # EDA and feature exploration
-├── visualizations/         # Saved visualizations
-└── README.md
-
-📸 Screenshots
-<!-- Add screenshots here -->
+📸 Screenshots  
+<!-- Add screenshots here -->  
 Coming soon...
 
-💡 Future Improvements
-Add app ranking trends
-
-Integrate with Play Store API (if possible)
-
-Deploy using Streamlit Cloud / Hugging Face Spaces
-
-🔗 Live Demo
+🔗 Live Demo  
 Coming soon (or add your Streamlit share link)
 
-🧑‍💻 Developed By
-Akshata Undhekar
-🎓 AI/ML Engineering Enthusiast
-🏆 Built during internship tasks + personal learning "give it like above"
+🧑‍💻 Developed By  
+Akshata Undhekar  
+🎓 AI/ML Engineering Enthusiast  
+🏆 Built during internship tasks + personal learning
