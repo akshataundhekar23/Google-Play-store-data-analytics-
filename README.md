@@ -28,6 +28,6 @@ Coming soon...
 Coming soon (or add your Streamlit share link)
 
 🧑‍💻 Developed By  
-Akshata Undhekar  
+Akshat Aundhekar  
 🎓 AI/ML Engineering Enthusiast  
 🏆 Built during internship tasks + personal learning
