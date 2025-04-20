@@ -24,9 +24,6 @@ This project is a comprehensive data analytics dashboard built using Python and 
 <!-- Add screenshots here -->  
 Coming soon...
 
-🔗 Live Demo  
-Coming soon (or add your Streamlit share link)
-
 🧑‍💻 Developed By  
 Akshat Aundhekar  
 🎓 AI/ML Engineering Enthusiast  
